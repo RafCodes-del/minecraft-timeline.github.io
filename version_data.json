@@ -24,7 +24,29 @@
             { "text": "Basic caves" }
           ]
         },
-
+               {
+          "subtitle": "Minecraft 1.1.1",
+          "description": "Seecret Saturday Update",
+          "type": "major",
+          "date": "2010-9-18",
+          "icon": "versions/java/version_cave_game.png",
+          "learnMore": "#Cave_game_tech_test",
+          "mainFeatures": [
+            { "text": "New Paintings" },
+            { "text": "New Fishing Rods" }
+            { "text": "New Sneaking"}
+          ],
+          "minorFeatures": [
+            { "text": "Changed Sea painting" },
+            { "text": "Changed Stage painting" },
+            { "text": "Option to toggle the debug menu in the options has been replaced with the F3 key. F3 + S" }
+          ]
+          "Bugs": [
+            { "text": "Gray Screen" },
+            { "text": "Flashing Red Light in Startup" },
+            { "text": "Gamma Errors" }
+          ]
+        },
         {
           "subtitle": "Early Classic Creative",
           "description": "Trees & Ores",
